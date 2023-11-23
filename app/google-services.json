@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "467749392404",
+    "project_id": "teachers-point-8ae29",
+    "storage_bucket": "teachers-point-8ae29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467749392404:android:3e4e501338be8e510bd701",
+        "android_client_info": {
+          "package_name": "com.example.teacherspoint"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvGfrlzJg69XXQgwYiC-361nRz8TIrCuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
